@@ -1,0 +1,15 @@
+# папки сборки
+build/
+build-*/
+
+# файлы базы данных
+*.db
+
+# файлы настроек ide
+.vscode/
+.idea/
+*.pro.user
+
+# системные файлы
+.ds_store
+thumbs.db
